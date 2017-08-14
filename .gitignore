@@ -259,3 +259,14 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/Testing-Ground/Hep3B_2.spectratrimmed
+/Testing-Ground/Hep3B_2.spectra
+/Testing-Ground/Hep3B_1.spectratrimmed
+/Testing-Ground/Hep3B_1.spectra
+/Testing-Ground/output.txt
+/Testing-Ground/MHCCLM3_2.spectratrimmed
+/Testing-Ground/MHCCLM3_2.spectra
+/Testing-Ground/MHCCLM3_1.spectratrimmed
+/Testing-Ground/MHCCLM3_1.spectra
+/Testing-Ground/MHCC97H_2_trimmed.spectraout
+/Testing-Ground/MHCC97H_2_trimmed.spectra
